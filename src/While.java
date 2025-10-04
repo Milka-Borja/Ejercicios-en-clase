@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main {
+public class While {
     public static void main(String[] args) {
         String user = "admin123";
         String pass = "admin123";
